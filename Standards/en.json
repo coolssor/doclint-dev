@@ -1,0 +1,47 @@
+{
+    "DOC-EN02": {
+        "description": "Use simple, straightforward language"
+    },
+    "DOC-EN03": {
+        "description": "Use generic terms"
+    },
+    "DOC-EN04": {
+        "description": "Organize content with headings"
+    },
+    "DOC-EN05": {
+        "description": "Use sentence case for headings and subheadings"
+    },
+    "DOC-EN06": {
+        "description": "Use American English"
+    },
+    "DOC-EN07": {
+        "description": "Use the Oxford comma"
+    },
+    "DOC-EN08": {
+        "description": "Use contractions"
+    },
+    "DOC-EN09": {
+        "description": "Use inclusive language"
+    },
+    "DOC-EN10": {
+        "description": "Avoid the word \"may\""
+    },
+    "DOC-EN13": {
+        "description": "Avoid Latin abbreviations"
+    },
+    "DOC-EN14": {
+        "description": "Avoid double sounds in pairs of words"
+    },
+    "DOC-EN15": {
+        "description": "Write instructions from a user's perspective"
+    },
+    "DOC-EN16": {
+        "description": "Limit minor steps or instructions to a maximum of three"
+    },
+    "DOC-EN17": {
+        "description": "Use words for large numbers"
+    },
+    "DOC-EN18": {
+        "description": "Use digits instead of words for numbers"
+    }
+}
